@@ -1,0 +1,20 @@
+{
+  "cursos": [
+    {
+      "id": "inst-001",
+      "titulo": "Introducción a la Instrumentación Industrial",
+      "descripcion_corta": "Variables de proceso y principios de medición.",
+      "duracion": "6 clases (9 h)",
+      "precio": "ARS 60.000",
+      "link_inscripcion": "https://cursala.com.ar/pages/courses/686039da9b7d781c83df0424"
+    },
+    {
+      "id": "redes-001",
+      "titulo": "Redes y Telecomunicaciones desde Cero",
+      "descripcion_corta": "Direcciones IP, subredes, WiFi y routing básico.",
+      "duracion": "8 clases (12 h)",
+      "precio": "ARS 50.000",
+      "link_inscripcion": "https://cursala.com.ar/pages/courses/686039da9b7d781c83df0424"
+    }
+  ]
+}
