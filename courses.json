@@ -35,12 +35,7 @@
         {
       "id": "Pi visión-001",
       "titulo": "Introducción a PI System ",
-      "descripcion_corta": "🔹 Objetivos del Curso
-    • Comprender la arquitectura y componentes del PI System.
-    • Configurar y utilizar PI Data Archive y PI Asset Framework.
-    • Crear visualizaciones efectivas con PI Vision.
-    • Aplicar análisis de eventos y notificaciones.
-    • Integrar PI System con otras plataformas mediante interfaces y conectores.",
+      "descripcion_corta": "🔹 Objetivos del Curso",
       "duracion": "10 clases (12 h)",
       "precio": "ARS 250000",
       "link_inscripcion": "https://cursala.com.ar/pages/courses/688f78c049db6d69a2ed36c4"
