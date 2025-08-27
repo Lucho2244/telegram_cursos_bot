@@ -10,11 +10,40 @@
     },
     {
       "id": "redes-001",
+      "titulo": "Redes y Telecomunicaciones",
+      "descripcion_corta": "Este curso está diseñado para quienes desean comprender, desde cero y de forma clara, el funcionamiento de las redes de computadoras. A través de un enfoque práctico y accesible, aprenderás los conceptos fundamentales: cómo se interconectan los dispositivos, el recorrido que siguen los datos y los elementos que hacen posible la comunicación",
+      "duracion": "10 clases (12 h)",
+      "precio": "ARS 250000",
+      "link_inscripcion": "https://cursala.com.ar/pages/courses"
+    }
+        {
+      "id": "Exploración Minera -001",
+      "titulo": "Introducción a la exploración minera",
+      "descripcion_corta": "Al finalizar este curso, el/la participante estará en condiciones de: Comprender el rol del geólogo, técnico y ayudante en un proyecto de exploración. Usar herramientas básicas como GPS, mapas y registros de campo. Reconocer los tipos de muestreo más comunes y cómo llevarlos a cabo correctamente. Entender el procedimiento completo de perforación diamantina y aire reverso. Aplicar conceptos de geotecnia básica y QAQC. Aplicar principios de ética, seguridad y cuidado ambiental.",
+      "duracion": "6 clases (12 h)",
+      "precio": "ARS 200000",
+      "link_inscripcion": "https://cursala.com.ar/pages/courses/6867cef90f5ac8234ff18a10"
+    }
+        {
+      "id": "Couching-001",
       "titulo": "Redes y Telecomunicaciones desde Cero",
       "descripcion_corta": "Direcciones IP, subredes, WiFi y routing básico.",
       "duracion": "8 clases (12 h)",
       "precio": "ARS 50.000",
       "link_inscripcion": "https://cursala.com.ar/pages/courses/686039da9b7d781c83df0424"
+    }
+        {
+      "id": "Pi visión-001",
+      "titulo": "Introducción a PI System ",
+      "descripcion_corta": "🔹 Objetivos del Curso
+    • Comprender la arquitectura y componentes del PI System.
+    • Configurar y utilizar PI Data Archive y PI Asset Framework.
+    • Crear visualizaciones efectivas con PI Vision.
+    • Aplicar análisis de eventos y notificaciones.
+    • Integrar PI System con otras plataformas mediante interfaces y conectores.",
+      "duracion": "10 clases (12 h)",
+      "precio": "ARS 250000",
+      "link_inscripcion": "https://cursala.com.ar/pages/courses/688f78c049db6d69a2ed36c4"
     }
   ]
 }
