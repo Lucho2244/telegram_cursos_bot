@@ -15,26 +15,26 @@
       "duracion": "10 clases (12 h)",
       "precio": "ARS 250000",
       "link_inscripcion": "https://cursala.com.ar/pages/courses"
-    }
-        {
-      "id": "Exploración Minera -001",
+    },
+    {
+      "id": "ExploracionMinera-001",
       "titulo": "Introducción a la exploración minera",
       "descripcion_corta": "Al finalizar este curso, el/la participante estará en condiciones de: Comprender el rol del geólogo, técnico y ayudante en un proyecto de exploración. Usar herramientas básicas como GPS, mapas y registros de campo. Reconocer los tipos de muestreo más comunes y cómo llevarlos a cabo correctamente. Entender el procedimiento completo de perforación diamantina y aire reverso. Aplicar conceptos de geotecnia básica y QAQC. Aplicar principios de ética, seguridad y cuidado ambiental.",
       "duracion": "6 clases (12 h)",
       "precio": "ARS 200000",
       "link_inscripcion": "https://cursala.com.ar/pages/courses/6867cef90f5ac8234ff18a10"
-    }
-        {
+    },
+    {
       "id": "Couching-001",
       "titulo": "Redes y Telecomunicaciones desde Cero",
       "descripcion_corta": "Direcciones IP, subredes, WiFi y routing básico.",
       "duracion": "8 clases (12 h)",
       "precio": "ARS 50.000",
       "link_inscripcion": "https://cursala.com.ar/pages/courses/686039da9b7d781c83df0424"
-    }
-        {
-      "id": "Pi visión-001",
-      "titulo": "Introducción a PI System ",
+    },
+    {
+      "id": "PiVision-001",
+      "titulo": "Introducción a PI System",
       "descripcion_corta": "🔹 Objetivos del Curso",
       "duracion": "10 clases (12 h)",
       "precio": "ARS 250000",
